@@ -1,0 +1,10 @@
+[
+    {
+      "ParameterKey": "DynamoKMSARN",
+      "ParameterValue": "Llave multiregion para DynamoDB. DR. PROD"
+    },
+    {
+      "ParameterKey": "ParametersKMSARN",
+      "ParameterValue": "Llave multiregion para Parameter Store. DR. PROD"
+    }
+  ]
