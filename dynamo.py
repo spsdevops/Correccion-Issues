@@ -270,7 +270,7 @@ def funcion_madre(nombre_tabla):
             Tags=[{"Key": "Proyecto", "Value": "ISSUES"},])
                                  
     def crear_tabla_global(nombre_tabla):
-        '''Crea tabla global a partir del nombre de la tabla mencionada.'''
+        '''Crea tabla global a partir del nombre de la tabla mencionada..'''
         try:    
             print("Se comienza creación tabla global de tabla de origen.")
             response = dynamo.update_table(
